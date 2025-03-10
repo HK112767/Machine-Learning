@@ -1,18 +1,19 @@
 # Machine Learning Algorithms
-This portfolio consists of Jupyter notebooks where I have explored and implemented different supervised and unsupervised machine learning algorithms. The models were trained using built-in datasets from scikit-learn, and various preprocessing techniques were applied before training.
 
-# Algorithms
-Random Forest
-Decision Tree
-Linear Regression
-Support Vector Machine (SVM)
-Naive Bayes
-K-Nearest Neighbors (KNN)
-K-Means Clustering
+This repository contains Jupyter notebooks exploring various supervised and unsupervised machine learning algorithms. The models were trained using built-in datasets from scikit-learn, with necessary preprocessing applied before training.
 
-# Overview of each notebook
-Dataset Loading - Built-in datasets from sklearn.datasets
-Data Preprocessing - Handling missing values, feature scaling, encoding categorical variables
-Model Training - Training the models using sklearn's machine learning algorithms
-Performance Evaluation - Using metrics such as accuracy, RMSE, precision, recall, and confusion matrices
-Analysis & Insights - Understanding model behavior and improvements
+## Implemented Algorithms
+- Random Forest  
+- Decision Tree  
+- Linear Regression  
+- Support Vector Machine (SVM)  
+- Naive Bayes  
+- K-Nearest Neighbors (KNN)  
+- K-Means Clustering  
+
+## Notebook Structure
+- **Dataset Loading** – Using built-in datasets from `sklearn.datasets`  
+- **Data Preprocessing** – Handling missing values, feature scaling, and encoding categorical variables  
+- **Model Training** – Implementing ML algorithms with `sklearn`  
+- **Performance Evaluation** – Assessing models using accuracy, RMSE, precision, recall, and confusion matrices  
+- **Analysis & Insights** – Understanding model behavior and areas for improvement  
