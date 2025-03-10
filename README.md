@@ -3,8 +3,7 @@
 This repository contains Jupyter notebooks exploring various supervised and unsupervised machine learning algorithms. The models were trained using built-in datasets from scikit-learn, with necessary preprocessing applied before training.
 
 ## Implemented Algorithms
-- Random Forest  
-- Decision Tree  
+- Random Forest & Decision Tree  
 - Linear Regression  
 - Support Vector Machine (SVM)  
 - Naive Bayes  
